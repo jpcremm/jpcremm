@@ -6,7 +6,7 @@ Estudante de Ciência da Computação na UNASP · Buscando estágio em desenvolv
 
 ## Sobre mim
 
-Construindo minha base em **desenvolvimento web** e **análise de dados**, com projetos práticos que combinam engenharia de dados, pipelines ETL e aplicações web em tempo real. Fanático por futebol — e isso acabou virando projeto. ⚽
+Construindo minha base em **desenvolvimento web** e **análise de dados**, com projetos práticos que combinam engenharia de dados, pipelines ETL e aplicações web em tempo real.
 
 ---
 
